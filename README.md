@@ -12,6 +12,8 @@
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
 </div>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31tl2gmcl2sq2zomok4gmdk4pqg4)
 <p align="left">
 </p>
 
