@@ -7,7 +7,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codemaster-info&label=Profile%20views&color=0e75b6&style=flat" alt="codemaster-info" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-![CodeMaster Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31tl2gmcl2sq2zomok4gmdk4pqg4)
+<div align="center">
+  <a href="https://open.spotify.com/user/31tl2gmcl2sq2zomok4gmdk4pqg4">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+  </a>
+</div>
 <p align="left">
 </p>
 
