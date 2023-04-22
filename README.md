@@ -1,10 +1,4 @@
 
-
-
-# Hi there, I'm [your name]!
-
-Thanks for visiting my GitHub profile, [@${{ github.actor }}](https://github.com/${{ github.actor }})! 
-
 ![68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f363837343734373037333361326632663639326537303639366536393664363732653633366636643266366637](https://user-images.githubusercontent.com/108452068/176614959-9c81f5a3-e9ee-44e8-bf2d-f0dbfecffe32.gif)
 
 <h1 align="center">Hi 👋, I'm CodeMaster</h1>
